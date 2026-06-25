@@ -17,8 +17,8 @@ Acest repository pune la dispoziție un laborator complet, incluzând atât **do
 
 ## Conținutul Repository-ului
 Pentru a facilita reproducerea exactă a scenariilor de testare, acest repository include:
-1. **Fișierele Mașinii Virtuale** Exportul fișierului **configuration.xml** al firewall-ului OPNsense pre-configurat cu toate regulile, alias-urile și serviciile activate se poate face la cerere, în privat.
-2. **Documentația Detaliată (`PDF` / `DOCX`):** Raportul academic integral care cuprinde fundamentele teoretice (cu trimiteri bibliografice de specialitate), scenariile de implementare, capturi de ecran relevante și metodologia de *troubleshooting*.
+1. **Fișierele Mașinii Virtuale** Exportul fișierului **configuration.xml** (criptat) al firewall-ului OPNsense pre-configurat cu toate regulile, alias-urile și serviciile activate. Fișierul în clar se poate pune la dispoziție, în privat, dacă este nevoie. 
+2. **Documentația Detaliată (`PDF` / `DOCX`):** Raportul academic integral care cuprinde fundamentele teoretice (cu trimiteri bibliografice de specialitate), scenariile de implementare, capturi de ecran relevante și metodologia de *troubleshooting*. Există o "documentație principală" (este cea care poartă numele proiectului), și documentații suport pentru aceasta (documentația principală face trimitere cătrele cele secundare, care sunt numerotate - 4.1, 4.3, 4.4, 4.5, 4.6, 4.7).
 3. **Scripturi auxiliare:** Scripturile utilizate pe mașinile client pentru validarea accesului.
 
 ---
